@@ -1,0 +1,40 @@
+$(document).ready(function(){
+
+  $("#cell1").click(function(event){
+    event.preventDefault();
+    $("#cell1").text("O");
+  });
+  $("#cell2").click(function(event){
+    event.preventDefault();
+    $("#cell2").text("O");
+  });
+  $("#cell3").click(function(event){
+    event.preventDefault();
+    $("#cell3").text("O");
+  });
+  $("#cell4").click(function(event){
+    event.preventDefault();
+    $("#cell4").text("O");
+  });
+  $("#cell5").click(function(event){
+    event.preventDefault();
+    $("#cell5").text("O");
+  });
+  $("#cell6").click(function(event){
+    event.preventDefault();
+    $("#cell6").text("O");
+  });
+  $("#cell7").click(function(event){
+    event.preventDefault();
+    $("#cell7").text("O");
+  });
+  $("#cell8").click(function(event){
+    event.preventDefault();
+    $("#cell8").text("O");
+  });
+  $("#cell9").click(function(event){
+    event.preventDefault();
+    $("#cell9").text("O");
+  });
+
+});
